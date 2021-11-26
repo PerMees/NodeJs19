@@ -1,10 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Iphone 13"
-  },
-  {
-    "id": 2,
-    "name": "Iphone 12"
-  }
-]
+[{"id":1,"name":"Iphone 13"},{"id":2,"name":"Iphone 12"},{"id":4,"name":"RedmiNote10"},{"id":5,"name":"SSG Fold"}]
